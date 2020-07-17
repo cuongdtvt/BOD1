@@ -1,0 +1,66 @@
+DÀN Ý THUYẾT TRÌNH
+
+Giới thiệu bản thân
+	- Tên Tuổi quê quán
+	- Sở thích
+	- Học ngành gì => back ground => vì sao chuyển ngành? Có lợi thế và bất lời gì khi chuyển ngành?
+
+- Trước khi tham gia khóa fresher
+	Có gì ? những cái đó như thế nào ? 
+	Trước khi tham gia trình độ như thế nào 
+
+- KHóa Fresher
+	Các dự án đã trải qua trong quá trình?
+	=> kỹ thuật từng dự án sử dụng 
+	=> học thêm gì mới ? Củng cố tăng cấp những cái gì?
+	=> rút ra bài học ?
+
+- Sau Khóa Fresher
+	=> những gì đã học thêm được?
+	=> những gì đã level up?
+	=> những gì còn đang cảm thấy thiếu sót?
+	=> rút ra kết luận
+
+=> Đánh giá lại SWOT bản thân
+	=> điểm mạnh yếu ? cần bổ sung hay phát huy những gì
+	=> cơ hôi và thách thức khi làm trong một công ty Nhật
+
+
+- Mục tiêu sau khi hoàn thành khóa fresher
+	=> Ngắn Hạn
+	=> dài hạn
+
+==============================================================
+7 mức độ am hiểu về 1 công nghệ 
+https://techtalk.vn/7-muc-am-hieu-1-cong-nghe-ngon-ngu-7-understanding-level.html
+
+	Level 0: Nghe qua tên (level ngoại hạng không phải là level chính thức trong 7UL)
+	Level 1: Biết tên và biết CNNN dùng làm gì.
+	Level 2: Biết được thông tin tổng quan về CNNN.
+	Level 3: Làm được ‘Hello World’ project.
+	Level 4: Làm được các chức năng cơ bản.
+	Level 5: Sử dụng được CNNN một cách thành thạo.
+	Level 6: Có thể tối ưu code, cải tiến hoặc xây dựng được một vài thư viện, framework dựa trên CNNN.
+	Level 7: Tạo được 1 CNNN tương tự.
+
+=============================================================
+
+trước khi tham gia khóa fresher : 
+	Đã có gì :	- Kinh nghiệm lập trình nhúng ở đại học => tư duy logic , tư duy lập trình
+			- Học 1 khóa java cơ bản  => nắm được các kiến thức cơ bản của java , sql server => làm một ứng dụng java swing 
+			- Tự học thêm html và css 
+
+=============================================================
+khi tham gia khóa fresher
+Tháng đầu tiên: 
+	làm gì ? Mini project : sử dụng mô hình web api ( web api là gì ? ) 
++/Web API là một phương thức dùng để cho phép các ứng dụng khác nhau có thể giao tiếp, trao đổi dữ liệu qua lại. Dữ liệu được Web API trả lại thường ở dạng JSON hoặc XML thông qua giao thức HTTP hoặc HTTPS.
+	- Sử dụng Java làm backend và Angular làm frontend. trong java sử dụng framework spring boot, tuy nhiên tự viết ra các câu lệnh sql để truy vấn data từ CSDL
+	- Angular là gì ? 
+	qua mini project này được gì? 
+	- biết được làm web api
+	- code thuần thục hơn, làm được các chức năng nhanh hơn, tạo được thói quen code clean + comment khi code	
+	- Học được thêm angular, biết các flow đường đi của nó
+	- Phân rã công việc, thêm kinh nghiệm khi dự trù được thời gian làm từng các phần 
+	- 
+
