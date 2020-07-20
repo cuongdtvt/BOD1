@@ -162,14 +162,18 @@ SLIDE 9: Mục tiêu
 	Ngắn hạn: - Trở thành nhân viên chính thức của công ty => để đạt được mục tiêu này thì cần phải hoàn thành tốt khóa fresher,nếu được nhận thử việc thì cần phải chứng tỏ năng lực của mình phù hợp với công ty, xứng đáng những gì công ty đã trả cho mình
 		- Cải thiện các điểm yếu như : Kiến thức chưa sâu => tiếp tục học tập nâng cao kiến thức của mình , trước tiên là phát triển chiều sâu => thành thạo một ngôn ngữ => tiếp theo sẽ học thêm các ngôn ngữ mới cần thiết để tham gia đc nhiều các dự án khác
 		- Tiếng Nhật: đặt lộ trình để đạt được N5
-	=> Học các bảng chữ cái Hiragana katakana 
+	=> Học các bảng chữ cái Hiragana katakana => học hết 50 bài giáo trình Minnano nihongo => luyện thi N5, theo em được biết thì để thi N5 thì chúng ta chỉ cần học 25 bài trong giáo trình Minnano, ~700 từ vựng tiếng Nhật, ~80-100 Kanji nhưng để chắc chắn thì học 50 bài và học số từ vựng nhiều hơn
 	
 	Dài hạn: 
 		- Phát triển bản thân => lên rank => đạt được Senior 
 	Để đạt được software engineer??
+ Senior ▪ Rất rành về Framework và biết vì sao Frameworkđược tạo ra ▪ Biết được Framework giải quyết được vấn đề của mình như thế nào và đến mức nào ▪ Hướng dẫn cho Intern, Fresher, Junior hiểu rõ và đúng về Framework
 
 
-		- Tiếng Nhật Đạt N3 => lộ trình 
+
+
+		- Tiếng Nhật Đạt N3 => lộ trình
+tiếp tục ôn luyện theo giá trình minnano nihongo và học tiếp giáo trình trung cấp, học thêm từ vựng, cấu trúc ngữ pháp, rèn luyên nghe bằng việc xem phim nghe nhạc hay nghe các đoạn hội thoại
 		- 
 
 
