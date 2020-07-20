@@ -1,5 +1,7 @@
 DÀN Ý THUYẾT TRÌNH
 
+https://jobsgo.vn/blog/tong-hop-cac-cau-hoi-phong-van-xin-viec-thuong-gap-va-cach-tra-loi/
+
 Giới thiệu bản thân
 	- Tên Tuổi quê quán
 	- Sở thích
@@ -43,15 +45,39 @@ https://techtalk.vn/7-muc-am-hieu-1-cong-nghe-ngon-ngu-7-understanding-level.htm
 	Level 6: Có thể tối ưu code, cải tiến hoặc xây dựng được một vài thư viện, framework dựa trên CNNN.
 	Level 7: Tạo được 1 CNNN tương tự.
 
-=============================================================
+===========================================================================
 
 trước khi tham gia khóa fresher : 
 	Đã có gì :	- Kinh nghiệm lập trình nhúng ở đại học => tư duy logic , tư duy lập trình
 			- Học 1 khóa java cơ bản  => nắm được các kiến thức cơ bản của java , sql server => làm một ứng dụng java swing 
 			- Tự học thêm html và css 
+============================================================================
+SLIDE 1: 40s
+	Chào anh Đông, anh Phúc, em tên là TTCC- thành viên của khóa Fresher K03,sau đây em xin trình bày phần tổng kết sau khi hoàn thành khóa Fresher K03
+=============================================================================
+SLIDE 2: 30s
+	Đây là các phần chính có trong phần tổng kết của em ngày hôm nay gồm 4 phần: sơ lược bản thân, những gì đã được học trong khóa fresher và rút ra được những kinh nghiệm và bài học, tổng kết phân tích điểm mạnh điểm yếu bản thân, và các cơ hội và thách thức khi làm việc ở trong công ty AIT. cuối cùng là mục tiêu bản thân trong công việc
 
-=============================================================
-khi tham gia khóa fresher
+============================================================================
+SLIDE 3: GIỚI THIỆU BẢN THÂN 3p 
+	1/Tên
+	2/Quê quán , ngày tháng năm sinh
+	3/Học vấn ? Chuyên ngành? Lí do chuyển ngành
+	4/Sở thích?
+
+	Em xin tự giới thiệu em tên là Tôn Thất Cao Cường , sinh ngày ...., em tốt nghiệp Đại Học KH ngành Điện Tử viễn Thông, Sở thích là Bóng đá đọc sách , đi du lịch - phượt
+	
+============================================================================
+	-Lý do bạn không chọn công việc liên quan đến ngành đã học: Bạn hãy trả lời thẳng thắn rằng bản thân cảm thấy không thực sự phù hợp với ngành nghề đó sau thời gian học tập dù đã thử làm công việc đó.
+	-Lý do bạn lựa chọn công việc hiện tại: Tất nhiên bạn yêu thích lĩnh vực này và quyết tâm gắn bó với nó. Hãy chỉ ra những yếu tố khiến bạn thích thú.
+	-Sự đam mê và nỗ lực của bạn: Lời nói, cách diễn đạt và biểu cảm sẽ thể hiện bạn say mê công việc như thế nào, hãy trả lời bằng tất cả sự hào hứng nhất có thể.
+============================================================================
+trước khi tham gia khóa fresher : 1p30s
+	Đã có gì :	- Kinh nghiệm lập trình nhúng ở đại học => tư duy logic , tư duy lập trình
+			- Học 1 khóa java cơ bản  => nắm được các kiến thức cơ bản của java , sql server => làm một ứng dụng java swing 
+			- Tự học thêm html và css 
+=============================================================================
+khi tham gia khóa fresher 5p 
 Tháng đầu tiên: 
 	làm gì ? Mini project : sử dụng mô hình web api ( web api là gì ? ) 
 +/Web API là một phương thức dùng để cho phép các ứng dụng khác nhau có thể giao tiếp, trao đổi dữ liệu qua lại. Dữ liệu được Web API trả lại thường ở dạng JSON hoặc XML thông qua giao thức HTTP hoặc HTTPS.
@@ -61,6 +87,96 @@ Tháng đầu tiên:
 	- biết được làm web api
 	- code thuần thục hơn, làm được các chức năng nhanh hơn, tạo được thói quen code clean + comment khi code	
 	- Học được thêm angular, biết các flow đường đi của nó
-	- Phân rã công việc, thêm kinh nghiệm khi dự trù được thời gian làm từng các phần 
-	- 
+	- Phân rã công việc, thêm kinh nghiệm khi dự trù được thời gian làm từng các phần
+
+tiếp theo : Research công nghệ mới - Python và Django
+	Những gì rút ra được:
+		
+		- biết thêm cơ bản về python và 1 web frame work của nó là Django
+		- biết cách chọn lọc thông tin , kiến thức để phù hợp với yêu cầu thời gian và lượng kiến thức cần có khi giới thiệu
+ cuối cùng : tiếp xúc tìm hiểu và làm lại 1 màn hình của dự án addon PE
+		- Lần đầu tiếp xúc với 1 dự án thực tế => biết được quy trình làm việc, mô hình , đường đi của dự án, các yêu cầu kỹ thuật cần tuân theo, biết được tài liệu được cung cấp như thế nào , được hướng dẫn đọc tài liệu để làm theo.
+		- Tiếp xúc với Java J2ee, thấy được sự khác nhau giữa những gì trước kia và bây giờ.
+		
+
+============================================================================
+SLIDE 6 5p 
+
+Những kỹ năng chuyên môn đã được biết thêm hay nâng cao trong quá trình tham gia khóa đào tạo fresher K03: 
+		Học thêm được Angular , Python, lần đầu tiếp xúc với J2EE, nâng cao được kỹ năng code Java , các câu lệnh SQL, nâng cao việc sử dụng hệ QT CSDL sql Server , tiếp xúc được với git để quản lý code,
+
+
+	Theo em đọc được trên mạng, có được 7 mức độ am hiểu về 1 công nghệ 
+https://techtalk.vn/7-muc-am-hieu-1-cong-nghe-ngon-ngu-7-understanding-level.html
+
+	Level 0: Nghe qua tên (level ngoại hạng không phải là level chính thức trong 7UL)
+	Level 1: Biết tên và biết CNNN dùng làm gì.
+	Level 2: Biết được thông tin tổng quan về CNNN.
+	Level 3: Làm được ‘Hello World’ project.
+	Level 4: Làm được các chức năng cơ bản.
+	Level 5: Sử dụng được CNNN một cách thành thạo.
+	Level 6: Có thể tối ưu code, cải tiến hoặc xây dựng được một vài thư viện, framework dựa trên CNNN.
+	Level 7: Tạo được 1 CNNN tương tự.
+
+và theo hiện tại em đánh giá thì trên kỹ năng java của em trước khi tham gia khóa fresher thì có thể thực hiện các chức năng đơn giản như crud , nên em đánh giá tầm 3.5 , sau khi tham gia khóa fresher em có thể các chức năng mới như xuất report, upload file, có thể sử dụng khá thành thạo các chức năng cơ bản, nên em đánh giá khoảng từ 4-5
+
+angular trước khi vào khóa fresher thì em chưa biết gì angular, tham gia khóa này em có cơ hội tìm hiểu thêm về angular , viết các chương trình đơn giản với angular tuy vẫn còn dùng các tài liệu và chưa thể code 1 cách trôi chảy0 nên em tự đánh giá sau khóa fresher khoảng từ 3 -4
+
+về phần SQL Server, trước khi tham gia khóa fresher em cũng đã từng tiếp xúc qua với hệ quản trị cơ sở dữ liệu và đã từng làm 1 đồ án với hệ csdl này, và trong khóa fresher này em có thêm cơ hội để làm việc với hệ csdl nên em đánh giá như trên
+
+với Python trước kia em có nghe qua nhưng chưa hết tiếp xúc với nó, qua phần research khoảng tầm 1 tuần em có cơ hội tìm hiểu và thực hành làm ra 1 pet project nhỏ là todo app để thực hành những gì đã tìm hiểu nên em đán hgias mình ở mức 3- làm đc 1 project nhỏ cơ bản 
+
+=============================================================================
+
+
+SLIDE 7: 2p 
+
+Những kỹ năng mềm đã được nâng cao và học được trong khóa fresher k03
+- làm việc nhóm
+- phân rã, lên kế hoạch cho công việc
+- Làm việc hiệu quả
+- Mục tiêu cá nhân nghề nghiệp
+- Giao tiếp ứng xử trong công ty, biết được môi trường văn hóa làm việc trong một công ty Nhật 
+
+============================================================================
+SlIDE 8: Tổng kết  3p
+
+Sau khi tham gia khóa fresher k03, em rút ra được các điểm mạng điểm yếu của mình như sau cũng như cơ hội và thách thức khi làm ở trong một công ty Nhật như là công ty AIT
+	Về điểm mạnh :  Tư duy – logic
+			Đúng giờ - kỷ luật
+			Làm việc nhóm
+			Tự học, research 
+	Về điểm yếu : 	Chưa tham gia các dự án thực tế
+			Kiến thức chuyên môn chưa sâu
+			Tiếng Nhật
+	Cơ Hội: 	Tham gia các dự án lớn
+			Nâng cao Tiếng Nhật
+			Môi trường chuyên nghiệp
+			Cơ hội đi onsite Nhật
+	Thách thức:	Áp lực công việc
+			Làm việc tại công ty outsource thì cần có nhiều NNLT, update công nghệ
+			
+
+============================================================================
+SLIDE 9: Mục tiêu 
+	Ngắn hạn: - Trở thành nhân viên chính thức của công ty => để đạt được mục tiêu này thì cần phải hoàn thành tốt khóa fresher,nếu được nhận thử việc thì cần phải chứng tỏ năng lực của mình phù hợp với công ty, xứng đáng những gì công ty đã trả cho mình
+		- Cải thiện các điểm yếu như : Kiến thức chưa sâu => tiếp tục học tập nâng cao kiến thức của mình , trước tiên là phát triển chiều sâu => thành thạo một ngôn ngữ => tiếp theo sẽ học thêm các ngôn ngữ mới cần thiết để tham gia đc nhiều các dự án khác
+		- Tiếng Nhật: đặt lộ trình để đạt được N5
+	=> Học các bảng chữ cái Hiragana katakana 
+	
+	Dài hạn: 
+		- Phát triển bản thân => lên rank => đạt được Senior 
+	Để đạt được software engineer??
+
+
+		- Tiếng Nhật Đạt N3 => lộ trình 
+		- 
+
+
+
+	
+
+
+
+
 
