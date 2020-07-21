@@ -72,10 +72,11 @@ SLIDE 3: GIỚI THIỆU BẢN THÂN 3p
 	-Lý do bạn lựa chọn công việc hiện tại: Tất nhiên bạn yêu thích lĩnh vực này và quyết tâm gắn bó với nó. Hãy chỉ ra những yếu tố khiến bạn thích thú.
 	-Sự đam mê và nỗ lực của bạn: Lời nói, cách diễn đạt và biểu cảm sẽ thể hiện bạn say mê công việc như thế nào, hãy trả lời bằng tất cả sự hào hứng nhất có thể.
 ============================================================================
-trước khi tham gia khóa fresher : 1p30s
+trước khi tham gia khóa fresher :
 	Đã có gì :	- Kinh nghiệm lập trình nhúng ở đại học => tư duy logic , tư duy lập trình
 			- Học 1 khóa java cơ bản  => nắm được các kiến thức cơ bản của java , sql server => làm một ứng dụng java swing 
 			- Tự học thêm html và css 
+			- Biết một số câu lệnh cơ bản của git như push pull commit 
 =============================================================================
 khi tham gia khóa fresher 5p 
 Tháng đầu tiên: 
